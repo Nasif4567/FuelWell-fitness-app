@@ -1,6 +1,6 @@
 ## 🚀 Introduction
 
-The **React Native Fitness App** is designed to help users stay consistent with their fitness routines.  
+The **FuelWell Fitness App** is designed to help users stay consistent with their fitness routines.  
 It provides an all-in-one solution to track workouts, log exercises, monitor progress, and stay motivated.
 
 Built with **React Native**, **TypeScript**, and **Expo**, this app delivers a smooth and fast mobile experience across both Android and iOS devices.
