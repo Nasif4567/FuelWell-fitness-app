@@ -1,49 +1,32 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/react-native-fitness-app)
-  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/react-native-fitness-app?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/react-native-fitness-app?style=social)
- 
-  <br />
+## 🚀 Introduction
 
-  <h2 align="center">React Native Fitness App</h2>
+The **React Native Fitness App** is designed to help users stay consistent with their fitness routines.  
+It provides an all-in-one solution to track workouts, log exercises, monitor progress, and stay motivated.
 
-  In this project, I have created a Fitness App, The project is built using Expo, React Native, and React Native Navigation.
+Built with **React Native**, **TypeScript**, and **Expo**, this app delivers a smooth and fast mobile experience across both Android and iOS devices.
 
-</div>
+### ✨ Key Highlights
 
-### Demo Screenshot
+- 🧠 **Personalized Workouts:** Create and manage custom workout plans.
+- 📊 **Progress Tracking:** Visualize your fitness journey with charts and stats.
+- 🔔 **Daily Reminders:** Stay consistent with push notifications and goal tracking.
+- 🌙 **Modern UI:** Clean, minimal design using Tailwind CSS & Moti animations.
+- 🏃 **Real-Time Updates:** Track sets, reps, calories, and more — live.
+- 📅 **Workout Scheduler:** Plan your weekly training sessions easily.
 
-![React Native Fitness App Demo](./readme-images/React-Native-Fitness-App.png "Desktop Demo")
+---
 
-## Get Started
+## ⚙️ Tech Stack
 
-install dev dependencies
+### 🧩 Frontend
+- React Native + Expo  
+- TypeScript  
+- React Navigation  
+- Redux Toolkit / Zustand for State Management  
+- Moti / Reanimated for Animations  
+- Tailwind CSS (NativeWind)
 
-### `npm install`
-
-## Then
-
-Run The App
-
-### `npm start`
-
-Runs your app in development mode.
-
-Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
-
-#### `npm run ios`
-
-Like `npm start` / `yarn start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
-
-#### `npm run android`
-
-Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
-
-### Contact
-
-If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/geekyprashant/).
-
-### License
-
-This project is **free to use** and does not contain any license.
+### 🗄️ Backend
+- Node.js + Express.js  
+- MongoDB  
+- JWT Authentication  
